@@ -7,8 +7,8 @@
  Ayrıca hastanedeki doktor ve sağlık personeli ile Adresler ile ilgili veriler de içerir. Ayrıca, hastane envanter durumu ile ilgili verileri de içerecektir. 
  Hastane idari personeli tarafından doktor, sağlık
  
- #Main.java :Silme Ekleme Güncelleme ve Arama Kodlarının olduğu ana Class.
- #DBHelpe.java : Postgresql sunucu ile bağlantı yapılmasına yardım eden Class.
- #postgresql-42.2.14.jar : Postgresql sunucuya bağlanmak için eklenmesi gereken java kütüphanelerini içeren driver.
- #HastaneYönetimSistemi.sql : Veritabanı jodlarının bulunduğu sql dosya.
+ Main.java :Silme Ekleme Güncelleme ve Arama Kodlarının olduğu ana Class.
+ DBHelpe.java : Postgresql sunucu ile bağlantı yapılmasına yardım eden Class.
+ postgresql-42.2.14.jar : Postgresql sunucuya bağlanmak için eklenmesi gereken java kütüphanelerini içeren driver.
+ HastaneYönetimSistemi.sql : Veritabanı jodlarının bulunduğu sql dosya.
  

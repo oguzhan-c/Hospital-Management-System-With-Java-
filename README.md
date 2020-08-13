@@ -10,5 +10,5 @@
  Main.java :Silme Ekleme Güncelleme ve Arama Kodlarının olduğu ana Class.
  DBHelpe.java : Postgresql sunucu ile bağlantı yapılmasına yardım eden Class.
  postgresql-42.2.14.jar : Postgresql sunucuya bağlanmak için eklenmesi gereken java kütüphanelerini içeren driver.
- HastaneYönetimSistemi.sql : Veritabanı jodlarının bulunduğu sql dosya.
+ HastaneYönetimSistemi.sql : Veritabanı kodlarının bulunduğu sql dosya.
  
